@@ -1,0 +1,40 @@
+CS575-01 Design and Analysis of Algorithms
+Spring 2016
+Assignment1 README FILE
+
+Due Date: Thursday,February 25, 2016
+Submission Date: Thursday,February 25, 2016
+Grace Period Used This Project: 0 Days
+Grace Period Remaining: 0 Days
+Author: Chinmay Pradeep Kelkar 
+e-mail: ckelkar1@binghamton.edu
+B-id: B00608680
+
+PURPOSE:  Implement insertion sort, counting sort, merge sort, and randomized quick sort algorithms
+
+PERCENT COMPLETE: 100%
+
+PARTS THAT ARE NOT COMPLETE: NONE.
+
+BUGS: NONE
+
+FILES: 
+1.assignment1.c
+2.instruction_count.pdf
+3.makefile
+4.README
+
+TO COMPILE:
+1.Extract the files.
+2.Trace the folder Chinmay_Kelkar_proj1 containing all the required files through commmand 'cd'.
+3.Use the command make
+
+To CLEAN:
+1.Use command make clean
+
+
+EXTRA CREDIT: NA
+
+BIBLIOGRAPHY: Used www to grab concepts of sorting algorithms
+
+ACKNOWLEDGEMENT: None
