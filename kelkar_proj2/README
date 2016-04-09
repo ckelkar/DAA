@@ -1,0 +1,46 @@
+CS575-01 Design and Analysis of Algorithms
+Spring 2016
+Assignment2 README FILE
+
+Due Date: Monday,March 7,2016
+Submission Date: Monday,March 7,2016
+Grace Period Used This Project: 0 Days
+Grace Period Remaining: 0 Days
+Author: Chinmay Pradeep Kelkar 
+e-mail: ckelkar1@binghamton.edu
+B-id: B00608680
+
+PURPOSE:  Implement Strassen's Matrix Multiplication Algorithm, Floyd's algorithm, Tromino Tiling algorithm
+
+PERCENT COMPLETE: 100%
+
+PARTS THAT ARE NOT COMPLETE: NONE.
+
+BUGS: NONE
+
+FILES: 
+1.kelkar_pa2_stra.c
+2.kelkar_pa2_tro.c
+3.kelkar_pa2_floyd.c
+4.makefile
+5.README
+6.Academic_Honesty.pdf
+
+TO COMPILE:
+1.Extract the files.
+2.Trace folder kelkar_proj2 using command cd
+3.Use the command make 
+
+TO CLEAN:
+1.Use command make clean
+
+TO RUN:
+strassen's matrix multiplication: ./kelkar_pa2_stra.exe <input>
+tromino tiling algorithm: ./kelkar_pa2_tro.exe <input>
+floyd's algorithm: ./kelkar_pa2_floyd.exe <input file name>
+
+EXTRA CREDIT: NA
+
+BIBLIOGRAPHY: Used google.com and youtube.com to grab concepts of algorithms and file handling
+
+ACKNOWLEDGEMENT: None
